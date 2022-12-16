@@ -1,0 +1,26 @@
+Vocabulary - room
+living room = sala
+dining room = comedor
+kitchen = cocina
+bedroom = habitacion
+bathroom = baño
+balcony = balcon
+elevator = ascensor
+stairs = escalera
+yard = patio
+garage = garaje
+sofa = sofa
+rug = alfombra
+lamp = lampara
+table = mesa
+chair = silla
+wall = pared
+window = ventana
+air conditioner = aire acondicionado
+closet = armario
+bed = cama
+refrigerator = refrigeradora
+stove = cocina
+toilet = inodoro
+sink = lava manos
+shower = ducha
